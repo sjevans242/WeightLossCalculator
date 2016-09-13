@@ -1,5 +1,7 @@
 # WeightLossCalculator
 
+ui.R, server.R and CalcCal.R are all need for functionality of the caluclator
+
 ## Overview of Functionality
 
 1. Calculator takes input:
